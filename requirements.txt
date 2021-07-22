@@ -1,3 +1,4 @@
 pyrogram
 TgCrypto
 psycopg2-binary
+requests
