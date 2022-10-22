@@ -5,7 +5,7 @@ class Presets(object):
 Hello <b>{}</b>!
 
 Welcome to kuklink's official bot.
-Shorten your links with kuklink and earn upto $20 per 1k views/visits.
+Shorten your URl with kuklink and earn upto $20 per 1k views/visits.
 
 🍿 <b>What is kuklink.net ?</b>
 Kuklink is a completely free tool where you can create short links, which apart from being free, you get paid! So, now you can make money from home, when managing and protecting your links.
