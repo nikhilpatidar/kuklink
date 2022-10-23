@@ -14,8 +14,8 @@ class Config(object):
     API_HASH = os.environ.get("API_HASH", "")
     DB_URL = os.environ.get("DATABASE_URL", "")
 
-    # Group/channel username of the support chat
-    #SUPPORT_CHAT = os.environ.get("SUPPORT_CHAT", "@sumit_ptdr")
+    # Group/Channel username of the support chat.
+    # SUPPORT_CHAT = os.environ.get("SUPPORT_CHAT", "@sumit_ptdr")
 
     # List of admin user ids for special functions(Storing as an array)
     #AUTH_USERS = set(int(x) for x in os.environ.get("AUTH_USERS", "943097546").split())
